@@ -1,0 +1,827 @@
+2021-12-21 11:24:16 pid:1 ParseError: syntax error, unexpected '$text' (T_VARIABLE) in D:\phpstudy_pro\WWW\GatewayWorker\Applications\YourApp\Events.php:53
+Stack trace:
+#0 [internal function]: Workerman\Autoloader::loadByNamespace('Events')
+#1 [internal function]: spl_autoload_call('Events')
+#2 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\gateway-worker\src\BusinessWorker.php(226): is_callable('Events::onWorke...')
+#3 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(2405): GatewayWorker\BusinessWorker->onWorkerStart(Object(GatewayWorker\BusinessWorker))
+#4 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\gateway-worker\src\BusinessWorker.php(197): Workerman\Worker->run()
+#5 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(1406): GatewayWorker\BusinessWorker->run()
+#6 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(1349): Workerman\Worker::forkWorkersForWindows()
+#7 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(542): Workerman\Worker::forkWorkers()
+#8 D:\phpstudy_pro\WWW\GatewayWorker\Applications\YourApp\start_businessworker.php(35): Workerman\Worker::runAll()
+#9 {main}
+2021-12-21 11:24:18 pid:1 ParseError: syntax error, unexpected '$text' (T_VARIABLE) in D:\phpstudy_pro\WWW\GatewayWorker\Applications\YourApp\Events.php:53
+Stack trace:
+#0 [internal function]: Workerman\Autoloader::loadByNamespace('Events')
+#1 [internal function]: spl_autoload_call('Events')
+#2 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\gateway-worker\src\BusinessWorker.php(226): is_callable('Events::onWorke...')
+#3 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(2405): GatewayWorker\BusinessWorker->onWorkerStart(Object(GatewayWorker\BusinessWorker))
+#4 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\gateway-worker\src\BusinessWorker.php(197): Workerman\Worker->run()
+#5 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(1406): GatewayWorker\BusinessWorker->run()
+#6 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(1349): Workerman\Worker::forkWorkersForWindows()
+#7 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(542): Workerman\Worker::forkWorkers()
+#8 D:\phpstudy_pro\WWW\GatewayWorker\Applications\YourApp\start_businessworker.php(35): Workerman\Worker::runAll()
+#9 {main}
+2021-12-21 11:24:20 pid:1 ParseError: syntax error, unexpected '$text' (T_VARIABLE) in D:\phpstudy_pro\WWW\GatewayWorker\Applications\YourApp\Events.php:53
+Stack trace:
+#0 [internal function]: Workerman\Autoloader::loadByNamespace('Events')
+#1 [internal function]: spl_autoload_call('Events')
+#2 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\gateway-worker\src\BusinessWorker.php(226): is_callable('Events::onWorke...')
+#3 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(2405): GatewayWorker\BusinessWorker->onWorkerStart(Object(GatewayWorker\BusinessWorker))
+#4 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\gateway-worker\src\BusinessWorker.php(197): Workerman\Worker->run()
+#5 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(1406): GatewayWorker\BusinessWorker->run()
+#6 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(1349): Workerman\Worker::forkWorkersForWindows()
+#7 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(542): Workerman\Worker::forkWorkers()
+#8 D:\phpstudy_pro\WWW\GatewayWorker\Applications\YourApp\start_businessworker.php(35): Workerman\Worker::runAll()
+#9 {main}
+2021-12-21 11:24:22 pid:1 ParseError: syntax error, unexpected '$text' (T_VARIABLE) in D:\phpstudy_pro\WWW\GatewayWorker\Applications\YourApp\Events.php:53
+Stack trace:
+#0 [internal function]: Workerman\Autoloader::loadByNamespace('Events')
+#1 [internal function]: spl_autoload_call('Events')
+#2 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\gateway-worker\src\BusinessWorker.php(226): is_callable('Events::onWorke...')
+#3 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(2405): GatewayWorker\BusinessWorker->onWorkerStart(Object(GatewayWorker\BusinessWorker))
+#4 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\gateway-worker\src\BusinessWorker.php(197): Workerman\Worker->run()
+#5 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(1406): GatewayWorker\BusinessWorker->run()
+#6 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(1349): Workerman\Worker::forkWorkersForWindows()
+#7 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(542): Workerman\Worker::forkWorkers()
+#8 D:\phpstudy_pro\WWW\GatewayWorker\Applications\YourApp\start_businessworker.php(35): Workerman\Worker::runAll()
+#9 {main}
+2021-12-21 11:24:24 pid:1 ParseError: syntax error, unexpected '$text' (T_VARIABLE) in D:\phpstudy_pro\WWW\GatewayWorker\Applications\YourApp\Events.php:53
+Stack trace:
+#0 [internal function]: Workerman\Autoloader::loadByNamespace('Events')
+#1 [internal function]: spl_autoload_call('Events')
+#2 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\gateway-worker\src\BusinessWorker.php(226): is_callable('Events::onWorke...')
+#3 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(2405): GatewayWorker\BusinessWorker->onWorkerStart(Object(GatewayWorker\BusinessWorker))
+#4 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\gateway-worker\src\BusinessWorker.php(197): Workerman\Worker->run()
+#5 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(1406): GatewayWorker\BusinessWorker->run()
+#6 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(1349): Workerman\Worker::forkWorkersForWindows()
+#7 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(542): Workerman\Worker::forkWorkers()
+#8 D:\phpstudy_pro\WWW\GatewayWorker\Applications\YourApp\start_businessworker.php(35): Workerman\Worker::runAll()
+#9 {main}
+2021-12-21 11:24:25 pid:1 Register auth timeout (127.0.0.1). See http://doc2.workerman.net/register-auth-timeout.html
+2021-12-21 11:24:26 pid:1 ParseError: syntax error, unexpected '$text' (T_VARIABLE) in D:\phpstudy_pro\WWW\GatewayWorker\Applications\YourApp\Events.php:53
+Stack trace:
+#0 [internal function]: Workerman\Autoloader::loadByNamespace('Events')
+#1 [internal function]: spl_autoload_call('Events')
+#2 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\gateway-worker\src\BusinessWorker.php(226): is_callable('Events::onWorke...')
+#3 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(2405): GatewayWorker\BusinessWorker->onWorkerStart(Object(GatewayWorker\BusinessWorker))
+#4 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\gateway-worker\src\BusinessWorker.php(197): Workerman\Worker->run()
+#5 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(1406): GatewayWorker\BusinessWorker->run()
+#6 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(1349): Workerman\Worker::forkWorkersForWindows()
+#7 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(542): Workerman\Worker::forkWorkers()
+#8 D:\phpstudy_pro\WWW\GatewayWorker\Applications\YourApp\start_businessworker.php(35): Workerman\Worker::runAll()
+#9 {main}
+2021-12-21 11:24:27 pid:1 Register auth timeout (127.0.0.1). See http://doc2.workerman.net/register-auth-timeout.html
+2021-12-21 11:24:28 pid:1 ParseError: syntax error, unexpected '$text' (T_VARIABLE) in D:\phpstudy_pro\WWW\GatewayWorker\Applications\YourApp\Events.php:53
+Stack trace:
+#0 [internal function]: Workerman\Autoloader::loadByNamespace('Events')
+#1 [internal function]: spl_autoload_call('Events')
+#2 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\gateway-worker\src\BusinessWorker.php(226): is_callable('Events::onWorke...')
+#3 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(2405): GatewayWorker\BusinessWorker->onWorkerStart(Object(GatewayWorker\BusinessWorker))
+#4 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\gateway-worker\src\BusinessWorker.php(197): Workerman\Worker->run()
+#5 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(1406): GatewayWorker\BusinessWorker->run()
+#6 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(1349): Workerman\Worker::forkWorkersForWindows()
+#7 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(542): Workerman\Worker::forkWorkers()
+#8 D:\phpstudy_pro\WWW\GatewayWorker\Applications\YourApp\start_businessworker.php(35): Workerman\Worker::runAll()
+#9 {main}
+2021-12-21 11:24:29 pid:1 Register auth timeout (127.0.0.1). See http://doc2.workerman.net/register-auth-timeout.html
+2021-12-21 11:24:30 pid:1 ParseError: syntax error, unexpected '$text' (T_VARIABLE) in D:\phpstudy_pro\WWW\GatewayWorker\Applications\YourApp\Events.php:53
+Stack trace:
+#0 [internal function]: Workerman\Autoloader::loadByNamespace('Events')
+#1 [internal function]: spl_autoload_call('Events')
+#2 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\gateway-worker\src\BusinessWorker.php(226): is_callable('Events::onWorke...')
+#3 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(2405): GatewayWorker\BusinessWorker->onWorkerStart(Object(GatewayWorker\BusinessWorker))
+#4 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\gateway-worker\src\BusinessWorker.php(197): Workerman\Worker->run()
+#5 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(1406): GatewayWorker\BusinessWorker->run()
+#6 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(1349): Workerman\Worker::forkWorkersForWindows()
+#7 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(542): Workerman\Worker::forkWorkers()
+#8 D:\phpstudy_pro\WWW\GatewayWorker\Applications\YourApp\start_businessworker.php(35): Workerman\Worker::runAll()
+#9 {main}
+2021-12-21 11:24:31 pid:1 Register auth timeout (127.0.0.1). See http://doc2.workerman.net/register-auth-timeout.html
+2021-12-21 11:24:32 pid:1 ParseError: syntax error, unexpected '$text' (T_VARIABLE) in D:\phpstudy_pro\WWW\GatewayWorker\Applications\YourApp\Events.php:53
+Stack trace:
+#0 [internal function]: Workerman\Autoloader::loadByNamespace('Events')
+#1 [internal function]: spl_autoload_call('Events')
+#2 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\gateway-worker\src\BusinessWorker.php(226): is_callable('Events::onWorke...')
+#3 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(2405): GatewayWorker\BusinessWorker->onWorkerStart(Object(GatewayWorker\BusinessWorker))
+#4 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\gateway-worker\src\BusinessWorker.php(197): Workerman\Worker->run()
+#5 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(1406): GatewayWorker\BusinessWorker->run()
+#6 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(1349): Workerman\Worker::forkWorkersForWindows()
+#7 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(542): Workerman\Worker::forkWorkers()
+#8 D:\phpstudy_pro\WWW\GatewayWorker\Applications\YourApp\start_businessworker.php(35): Workerman\Worker::runAll()
+#9 {main}
+2021-12-21 11:24:33 pid:1 Register auth timeout (127.0.0.1). See http://doc2.workerman.net/register-auth-timeout.html
+2021-12-21 11:24:34 pid:1 ParseError: syntax error, unexpected '$text' (T_VARIABLE) in D:\phpstudy_pro\WWW\GatewayWorker\Applications\YourApp\Events.php:53
+Stack trace:
+#0 [internal function]: Workerman\Autoloader::loadByNamespace('Events')
+#1 [internal function]: spl_autoload_call('Events')
+#2 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\gateway-worker\src\BusinessWorker.php(226): is_callable('Events::onWorke...')
+#3 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(2405): GatewayWorker\BusinessWorker->onWorkerStart(Object(GatewayWorker\BusinessWorker))
+#4 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\gateway-worker\src\BusinessWorker.php(197): Workerman\Worker->run()
+#5 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(1406): GatewayWorker\BusinessWorker->run()
+#6 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(1349): Workerman\Worker::forkWorkersForWindows()
+#7 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(542): Workerman\Worker::forkWorkers()
+#8 D:\phpstudy_pro\WWW\GatewayWorker\Applications\YourApp\start_businessworker.php(35): Workerman\Worker::runAll()
+#9 {main}
+2021-12-21 11:24:35 pid:1 Register auth timeout (127.0.0.1). See http://doc2.workerman.net/register-auth-timeout.html
+2021-12-21 11:24:56 pid:1 ParseError: syntax error, unexpected 'Gateway' (T_STRING), expecting ',' or ';' in D:\phpstudy_pro\WWW\GatewayWorker\Applications\YourApp\Events.php:55
+Stack trace:
+#0 [internal function]: Workerman\Autoloader::loadByNamespace('Events')
+#1 [internal function]: spl_autoload_call('Events')
+#2 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\gateway-worker\src\BusinessWorker.php(226): is_callable('Events::onWorke...')
+#3 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(2405): GatewayWorker\BusinessWorker->onWorkerStart(Object(GatewayWorker\BusinessWorker))
+#4 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\gateway-worker\src\BusinessWorker.php(197): Workerman\Worker->run()
+#5 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(1406): GatewayWorker\BusinessWorker->run()
+#6 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(1349): Workerman\Worker::forkWorkersForWindows()
+#7 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(542): Workerman\Worker::forkWorkers()
+#8 D:\phpstudy_pro\WWW\GatewayWorker\Applications\YourApp\start_businessworker.php(35): Workerman\Worker::runAll()
+#9 {main}
+2021-12-21 11:24:58 pid:1 ParseError: syntax error, unexpected 'Gateway' (T_STRING), expecting ',' or ';' in D:\phpstudy_pro\WWW\GatewayWorker\Applications\YourApp\Events.php:55
+Stack trace:
+#0 [internal function]: Workerman\Autoloader::loadByNamespace('Events')
+#1 [internal function]: spl_autoload_call('Events')
+#2 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\gateway-worker\src\BusinessWorker.php(226): is_callable('Events::onWorke...')
+#3 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(2405): GatewayWorker\BusinessWorker->onWorkerStart(Object(GatewayWorker\BusinessWorker))
+#4 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\gateway-worker\src\BusinessWorker.php(197): Workerman\Worker->run()
+#5 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(1406): GatewayWorker\BusinessWorker->run()
+#6 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(1349): Workerman\Worker::forkWorkersForWindows()
+#7 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(542): Workerman\Worker::forkWorkers()
+#8 D:\phpstudy_pro\WWW\GatewayWorker\Applications\YourApp\start_businessworker.php(35): Workerman\Worker::runAll()
+#9 {main}
+2021-12-21 11:25:00 pid:1 ParseError: syntax error, unexpected 'Gateway' (T_STRING), expecting ',' or ';' in D:\phpstudy_pro\WWW\GatewayWorker\Applications\YourApp\Events.php:55
+Stack trace:
+#0 [internal function]: Workerman\Autoloader::loadByNamespace('Events')
+#1 [internal function]: spl_autoload_call('Events')
+#2 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\gateway-worker\src\BusinessWorker.php(226): is_callable('Events::onWorke...')
+#3 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(2405): GatewayWorker\BusinessWorker->onWorkerStart(Object(GatewayWorker\BusinessWorker))
+#4 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\gateway-worker\src\BusinessWorker.php(197): Workerman\Worker->run()
+#5 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(1406): GatewayWorker\BusinessWorker->run()
+#6 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(1349): Workerman\Worker::forkWorkersForWindows()
+#7 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(542): Workerman\Worker::forkWorkers()
+#8 D:\phpstudy_pro\WWW\GatewayWorker\Applications\YourApp\start_businessworker.php(35): Workerman\Worker::runAll()
+#9 {main}
+2021-12-21 11:25:02 pid:1 ParseError: syntax error, unexpected 'Gateway' (T_STRING), expecting ',' or ';' in D:\phpstudy_pro\WWW\GatewayWorker\Applications\YourApp\Events.php:55
+Stack trace:
+#0 [internal function]: Workerman\Autoloader::loadByNamespace('Events')
+#1 [internal function]: spl_autoload_call('Events')
+#2 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\gateway-worker\src\BusinessWorker.php(226): is_callable('Events::onWorke...')
+#3 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(2405): GatewayWorker\BusinessWorker->onWorkerStart(Object(GatewayWorker\BusinessWorker))
+#4 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\gateway-worker\src\BusinessWorker.php(197): Workerman\Worker->run()
+#5 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(1406): GatewayWorker\BusinessWorker->run()
+#6 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(1349): Workerman\Worker::forkWorkersForWindows()
+#7 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(542): Workerman\Worker::forkWorkers()
+#8 D:\phpstudy_pro\WWW\GatewayWorker\Applications\YourApp\start_businessworker.php(35): Workerman\Worker::runAll()
+#9 {main}
+2021-12-21 11:25:05 pid:1 Register auth timeout (127.0.0.1). See http://doc2.workerman.net/register-auth-timeout.html
+2021-12-21 11:26:50 pid:1 ParseError: syntax error, unexpected 'Gateway' (T_STRING) in D:\phpstudy_pro\WWW\GatewayWorker\Applications\YourApp\Events.php:54
+Stack trace:
+#0 [internal function]: Workerman\Autoloader::loadByNamespace('Events')
+#1 [internal function]: spl_autoload_call('Events')
+#2 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\gateway-worker\src\BusinessWorker.php(226): is_callable('Events::onWorke...')
+#3 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(2405): GatewayWorker\BusinessWorker->onWorkerStart(Object(GatewayWorker\BusinessWorker))
+#4 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\gateway-worker\src\BusinessWorker.php(197): Workerman\Worker->run()
+#5 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(1406): GatewayWorker\BusinessWorker->run()
+#6 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(1349): Workerman\Worker::forkWorkersForWindows()
+#7 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(542): Workerman\Worker::forkWorkers()
+#8 D:\phpstudy_pro\WWW\GatewayWorker\Applications\YourApp\start_businessworker.php(35): Workerman\Worker::runAll()
+#9 {main}
+2021-12-21 11:26:52 pid:1 ParseError: syntax error, unexpected 'Gateway' (T_STRING) in D:\phpstudy_pro\WWW\GatewayWorker\Applications\YourApp\Events.php:54
+Stack trace:
+#0 [internal function]: Workerman\Autoloader::loadByNamespace('Events')
+#1 [internal function]: spl_autoload_call('Events')
+#2 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\gateway-worker\src\BusinessWorker.php(226): is_callable('Events::onWorke...')
+#3 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(2405): GatewayWorker\BusinessWorker->onWorkerStart(Object(GatewayWorker\BusinessWorker))
+#4 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\gateway-worker\src\BusinessWorker.php(197): Workerman\Worker->run()
+#5 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(1406): GatewayWorker\BusinessWorker->run()
+#6 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(1349): Workerman\Worker::forkWorkersForWindows()
+#7 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(542): Workerman\Worker::forkWorkers()
+#8 D:\phpstudy_pro\WWW\GatewayWorker\Applications\YourApp\start_businessworker.php(35): Workerman\Worker::runAll()
+#9 {main}
+2021-12-21 11:26:54 pid:1 ParseError: syntax error, unexpected 'Gateway' (T_STRING) in D:\phpstudy_pro\WWW\GatewayWorker\Applications\YourApp\Events.php:54
+Stack trace:
+#0 [internal function]: Workerman\Autoloader::loadByNamespace('Events')
+#1 [internal function]: spl_autoload_call('Events')
+#2 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\gateway-worker\src\BusinessWorker.php(226): is_callable('Events::onWorke...')
+#3 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(2405): GatewayWorker\BusinessWorker->onWorkerStart(Object(GatewayWorker\BusinessWorker))
+#4 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\gateway-worker\src\BusinessWorker.php(197): Workerman\Worker->run()
+#5 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(1406): GatewayWorker\BusinessWorker->run()
+#6 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(1349): Workerman\Worker::forkWorkersForWindows()
+#7 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(542): Workerman\Worker::forkWorkers()
+#8 D:\phpstudy_pro\WWW\GatewayWorker\Applications\YourApp\start_businessworker.php(35): Workerman\Worker::runAll()
+#9 {main}
+2021-12-21 11:26:56 pid:1 ParseError: syntax error, unexpected 'Gateway' (T_STRING) in D:\phpstudy_pro\WWW\GatewayWorker\Applications\YourApp\Events.php:54
+Stack trace:
+#0 [internal function]: Workerman\Autoloader::loadByNamespace('Events')
+#1 [internal function]: spl_autoload_call('Events')
+#2 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\gateway-worker\src\BusinessWorker.php(226): is_callable('Events::onWorke...')
+#3 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(2405): GatewayWorker\BusinessWorker->onWorkerStart(Object(GatewayWorker\BusinessWorker))
+#4 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\gateway-worker\src\BusinessWorker.php(197): Workerman\Worker->run()
+#5 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(1406): GatewayWorker\BusinessWorker->run()
+#6 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(1349): Workerman\Worker::forkWorkersForWindows()
+#7 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(542): Workerman\Worker::forkWorkers()
+#8 D:\phpstudy_pro\WWW\GatewayWorker\Applications\YourApp\start_businessworker.php(35): Workerman\Worker::runAll()
+#9 {main}
+2021-12-21 11:26:58 pid:1 ParseError: syntax error, unexpected 'Gateway' (T_STRING) in D:\phpstudy_pro\WWW\GatewayWorker\Applications\YourApp\Events.php:54
+Stack trace:
+#0 [internal function]: Workerman\Autoloader::loadByNamespace('Events')
+#1 [internal function]: spl_autoload_call('Events')
+#2 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\gateway-worker\src\BusinessWorker.php(226): is_callable('Events::onWorke...')
+#3 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(2405): GatewayWorker\BusinessWorker->onWorkerStart(Object(GatewayWorker\BusinessWorker))
+#4 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\gateway-worker\src\BusinessWorker.php(197): Workerman\Worker->run()
+#5 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(1406): GatewayWorker\BusinessWorker->run()
+#6 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(1349): Workerman\Worker::forkWorkersForWindows()
+#7 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(542): Workerman\Worker::forkWorkers()
+#8 D:\phpstudy_pro\WWW\GatewayWorker\Applications\YourApp\start_businessworker.php(35): Workerman\Worker::runAll()
+#9 {main}
+2021-12-21 11:26:59 pid:1 Register auth timeout (127.0.0.1). See http://doc2.workerman.net/register-auth-timeout.html
+2021-12-21 11:27:00 pid:1 ParseError: syntax error, unexpected 'Gateway' (T_STRING) in D:\phpstudy_pro\WWW\GatewayWorker\Applications\YourApp\Events.php:54
+Stack trace:
+#0 [internal function]: Workerman\Autoloader::loadByNamespace('Events')
+#1 [internal function]: spl_autoload_call('Events')
+#2 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\gateway-worker\src\BusinessWorker.php(226): is_callable('Events::onWorke...')
+#3 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(2405): GatewayWorker\BusinessWorker->onWorkerStart(Object(GatewayWorker\BusinessWorker))
+#4 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\gateway-worker\src\BusinessWorker.php(197): Workerman\Worker->run()
+#5 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(1406): GatewayWorker\BusinessWorker->run()
+#6 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(1349): Workerman\Worker::forkWorkersForWindows()
+#7 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(542): Workerman\Worker::forkWorkers()
+#8 D:\phpstudy_pro\WWW\GatewayWorker\Applications\YourApp\start_businessworker.php(35): Workerman\Worker::runAll()
+#9 {main}
+2021-12-21 11:27:01 pid:1 Register auth timeout (127.0.0.1). See http://doc2.workerman.net/register-auth-timeout.html
+2021-12-21 11:27:02 pid:1 ParseError: syntax error, unexpected 'Gateway' (T_STRING) in D:\phpstudy_pro\WWW\GatewayWorker\Applications\YourApp\Events.php:54
+Stack trace:
+#0 [internal function]: Workerman\Autoloader::loadByNamespace('Events')
+#1 [internal function]: spl_autoload_call('Events')
+#2 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\gateway-worker\src\BusinessWorker.php(226): is_callable('Events::onWorke...')
+#3 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(2405): GatewayWorker\BusinessWorker->onWorkerStart(Object(GatewayWorker\BusinessWorker))
+#4 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\gateway-worker\src\BusinessWorker.php(197): Workerman\Worker->run()
+#5 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(1406): GatewayWorker\BusinessWorker->run()
+#6 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(1349): Workerman\Worker::forkWorkersForWindows()
+#7 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(542): Workerman\Worker::forkWorkers()
+#8 D:\phpstudy_pro\WWW\GatewayWorker\Applications\YourApp\start_businessworker.php(35): Workerman\Worker::runAll()
+#9 {main}
+2021-12-21 11:27:03 pid:1 Register auth timeout (127.0.0.1). See http://doc2.workerman.net/register-auth-timeout.html
+2021-12-21 11:27:04 pid:1 ParseError: syntax error, unexpected 'Gateway' (T_STRING) in D:\phpstudy_pro\WWW\GatewayWorker\Applications\YourApp\Events.php:54
+Stack trace:
+#0 [internal function]: Workerman\Autoloader::loadByNamespace('Events')
+#1 [internal function]: spl_autoload_call('Events')
+#2 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\gateway-worker\src\BusinessWorker.php(226): is_callable('Events::onWorke...')
+#3 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(2405): GatewayWorker\BusinessWorker->onWorkerStart(Object(GatewayWorker\BusinessWorker))
+#4 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\gateway-worker\src\BusinessWorker.php(197): Workerman\Worker->run()
+#5 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(1406): GatewayWorker\BusinessWorker->run()
+#6 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(1349): Workerman\Worker::forkWorkersForWindows()
+#7 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(542): Workerman\Worker::forkWorkers()
+#8 D:\phpstudy_pro\WWW\GatewayWorker\Applications\YourApp\start_businessworker.php(35): Workerman\Worker::runAll()
+#9 {main}
+2021-12-21 11:27:05 pid:1 Register auth timeout (127.0.0.1). See http://doc2.workerman.net/register-auth-timeout.html
+2021-12-21 11:27:06 pid:1 ParseError: syntax error, unexpected 'Gateway' (T_STRING) in D:\phpstudy_pro\WWW\GatewayWorker\Applications\YourApp\Events.php:54
+Stack trace:
+#0 [internal function]: Workerman\Autoloader::loadByNamespace('Events')
+#1 [internal function]: spl_autoload_call('Events')
+#2 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\gateway-worker\src\BusinessWorker.php(226): is_callable('Events::onWorke...')
+#3 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(2405): GatewayWorker\BusinessWorker->onWorkerStart(Object(GatewayWorker\BusinessWorker))
+#4 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\gateway-worker\src\BusinessWorker.php(197): Workerman\Worker->run()
+#5 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(1406): GatewayWorker\BusinessWorker->run()
+#6 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(1349): Workerman\Worker::forkWorkersForWindows()
+#7 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(542): Workerman\Worker::forkWorkers()
+#8 D:\phpstudy_pro\WWW\GatewayWorker\Applications\YourApp\start_businessworker.php(35): Workerman\Worker::runAll()
+#9 {main}
+2021-12-21 11:27:07 pid:1 Register auth timeout (127.0.0.1). See http://doc2.workerman.net/register-auth-timeout.html
+2021-12-21 11:27:08 pid:1 ParseError: syntax error, unexpected 'Gateway' (T_STRING) in D:\phpstudy_pro\WWW\GatewayWorker\Applications\YourApp\Events.php:54
+Stack trace:
+#0 [internal function]: Workerman\Autoloader::loadByNamespace('Events')
+#1 [internal function]: spl_autoload_call('Events')
+#2 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\gateway-worker\src\BusinessWorker.php(226): is_callable('Events::onWorke...')
+#3 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(2405): GatewayWorker\BusinessWorker->onWorkerStart(Object(GatewayWorker\BusinessWorker))
+#4 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\gateway-worker\src\BusinessWorker.php(197): Workerman\Worker->run()
+#5 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(1406): GatewayWorker\BusinessWorker->run()
+#6 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(1349): Workerman\Worker::forkWorkersForWindows()
+#7 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(542): Workerman\Worker::forkWorkers()
+#8 D:\phpstudy_pro\WWW\GatewayWorker\Applications\YourApp\start_businessworker.php(35): Workerman\Worker::runAll()
+#9 {main}
+2021-12-21 11:27:09 pid:1 Register auth timeout (127.0.0.1). See http://doc2.workerman.net/register-auth-timeout.html
+2021-12-21 11:27:10 pid:1 ParseError: syntax error, unexpected 'Gateway' (T_STRING) in D:\phpstudy_pro\WWW\GatewayWorker\Applications\YourApp\Events.php:54
+Stack trace:
+#0 [internal function]: Workerman\Autoloader::loadByNamespace('Events')
+#1 [internal function]: spl_autoload_call('Events')
+#2 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\gateway-worker\src\BusinessWorker.php(226): is_callable('Events::onWorke...')
+#3 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(2405): GatewayWorker\BusinessWorker->onWorkerStart(Object(GatewayWorker\BusinessWorker))
+#4 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\gateway-worker\src\BusinessWorker.php(197): Workerman\Worker->run()
+#5 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(1406): GatewayWorker\BusinessWorker->run()
+#6 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(1349): Workerman\Worker::forkWorkersForWindows()
+#7 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(542): Workerman\Worker::forkWorkers()
+#8 D:\phpstudy_pro\WWW\GatewayWorker\Applications\YourApp\start_businessworker.php(35): Workerman\Worker::runAll()
+#9 {main}
+2021-12-21 11:27:11 pid:1 Register auth timeout (127.0.0.1). See http://doc2.workerman.net/register-auth-timeout.html
+2021-12-21 11:27:12 pid:1 ParseError: syntax error, unexpected 'Gateway' (T_STRING) in D:\phpstudy_pro\WWW\GatewayWorker\Applications\YourApp\Events.php:54
+Stack trace:
+#0 [internal function]: Workerman\Autoloader::loadByNamespace('Events')
+#1 [internal function]: spl_autoload_call('Events')
+#2 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\gateway-worker\src\BusinessWorker.php(226): is_callable('Events::onWorke...')
+#3 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(2405): GatewayWorker\BusinessWorker->onWorkerStart(Object(GatewayWorker\BusinessWorker))
+#4 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\gateway-worker\src\BusinessWorker.php(197): Workerman\Worker->run()
+#5 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(1406): GatewayWorker\BusinessWorker->run()
+#6 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(1349): Workerman\Worker::forkWorkersForWindows()
+#7 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(542): Workerman\Worker::forkWorkers()
+#8 D:\phpstudy_pro\WWW\GatewayWorker\Applications\YourApp\start_businessworker.php(35): Workerman\Worker::runAll()
+#9 {main}
+2021-12-21 11:27:13 pid:1 Register auth timeout (127.0.0.1). See http://doc2.workerman.net/register-auth-timeout.html
+2021-12-21 11:27:14 pid:1 ParseError: syntax error, unexpected 'Gateway' (T_STRING) in D:\phpstudy_pro\WWW\GatewayWorker\Applications\YourApp\Events.php:54
+Stack trace:
+#0 [internal function]: Workerman\Autoloader::loadByNamespace('Events')
+#1 [internal function]: spl_autoload_call('Events')
+#2 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\gateway-worker\src\BusinessWorker.php(226): is_callable('Events::onWorke...')
+#3 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(2405): GatewayWorker\BusinessWorker->onWorkerStart(Object(GatewayWorker\BusinessWorker))
+#4 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\gateway-worker\src\BusinessWorker.php(197): Workerman\Worker->run()
+#5 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(1406): GatewayWorker\BusinessWorker->run()
+#6 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(1349): Workerman\Worker::forkWorkersForWindows()
+#7 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(542): Workerman\Worker::forkWorkers()
+#8 D:\phpstudy_pro\WWW\GatewayWorker\Applications\YourApp\start_businessworker.php(35): Workerman\Worker::runAll()
+#9 {main}
+2021-12-21 11:56:42 pid:1 ParseError: syntax error, unexpected 'if' (T_IF) in D:\phpstudy_pro\WWW\GatewayWorker\Applications\YourApp\Events.php:54
+Stack trace:
+#0 [internal function]: Workerman\Autoloader::loadByNamespace('Events')
+#1 [internal function]: spl_autoload_call('Events')
+#2 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\gateway-worker\src\BusinessWorker.php(226): is_callable('Events::onWorke...')
+#3 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(2405): GatewayWorker\BusinessWorker->onWorkerStart(Object(GatewayWorker\BusinessWorker))
+#4 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\gateway-worker\src\BusinessWorker.php(197): Workerman\Worker->run()
+#5 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(1406): GatewayWorker\BusinessWorker->run()
+#6 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(1349): Workerman\Worker::forkWorkersForWindows()
+#7 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(542): Workerman\Worker::forkWorkers()
+#8 D:\phpstudy_pro\WWW\GatewayWorker\Applications\YourApp\start_businessworker.php(35): Workerman\Worker::runAll()
+#9 {main}
+2021-12-21 11:56:44 pid:1 ParseError: syntax error, unexpected 'if' (T_IF) in D:\phpstudy_pro\WWW\GatewayWorker\Applications\YourApp\Events.php:54
+Stack trace:
+#0 [internal function]: Workerman\Autoloader::loadByNamespace('Events')
+#1 [internal function]: spl_autoload_call('Events')
+#2 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\gateway-worker\src\BusinessWorker.php(226): is_callable('Events::onWorke...')
+#3 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(2405): GatewayWorker\BusinessWorker->onWorkerStart(Object(GatewayWorker\BusinessWorker))
+#4 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\gateway-worker\src\BusinessWorker.php(197): Workerman\Worker->run()
+#5 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(1406): GatewayWorker\BusinessWorker->run()
+#6 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(1349): Workerman\Worker::forkWorkersForWindows()
+#7 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(542): Workerman\Worker::forkWorkers()
+#8 D:\phpstudy_pro\WWW\GatewayWorker\Applications\YourApp\start_businessworker.php(35): Workerman\Worker::runAll()
+#9 {main}
+2021-12-21 11:56:46 pid:1 ParseError: syntax error, unexpected 'if' (T_IF) in D:\phpstudy_pro\WWW\GatewayWorker\Applications\YourApp\Events.php:54
+Stack trace:
+#0 [internal function]: Workerman\Autoloader::loadByNamespace('Events')
+#1 [internal function]: spl_autoload_call('Events')
+#2 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\gateway-worker\src\BusinessWorker.php(226): is_callable('Events::onWorke...')
+#3 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(2405): GatewayWorker\BusinessWorker->onWorkerStart(Object(GatewayWorker\BusinessWorker))
+#4 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\gateway-worker\src\BusinessWorker.php(197): Workerman\Worker->run()
+#5 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(1406): GatewayWorker\BusinessWorker->run()
+#6 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(1349): Workerman\Worker::forkWorkersForWindows()
+#7 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(542): Workerman\Worker::forkWorkers()
+#8 D:\phpstudy_pro\WWW\GatewayWorker\Applications\YourApp\start_businessworker.php(35): Workerman\Worker::runAll()
+#9 {main}
+2021-12-21 11:57:48 pid:1 ParseError: syntax error, unexpected '}' in D:\phpstudy_pro\WWW\GatewayWorker\Applications\YourApp\Events.php:58
+Stack trace:
+#0 [internal function]: Workerman\Autoloader::loadByNamespace('Events')
+#1 [internal function]: spl_autoload_call('Events')
+#2 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\gateway-worker\src\BusinessWorker.php(226): is_callable('Events::onWorke...')
+#3 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(2405): GatewayWorker\BusinessWorker->onWorkerStart(Object(GatewayWorker\BusinessWorker))
+#4 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\gateway-worker\src\BusinessWorker.php(197): Workerman\Worker->run()
+#5 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(1406): GatewayWorker\BusinessWorker->run()
+#6 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(1349): Workerman\Worker::forkWorkersForWindows()
+#7 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(542): Workerman\Worker::forkWorkers()
+#8 D:\phpstudy_pro\WWW\GatewayWorker\Applications\YourApp\start_businessworker.php(35): Workerman\Worker::runAll()
+#9 {main}
+2021-12-21 11:57:50 pid:1 ParseError: syntax error, unexpected '}' in D:\phpstudy_pro\WWW\GatewayWorker\Applications\YourApp\Events.php:58
+Stack trace:
+#0 [internal function]: Workerman\Autoloader::loadByNamespace('Events')
+#1 [internal function]: spl_autoload_call('Events')
+#2 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\gateway-worker\src\BusinessWorker.php(226): is_callable('Events::onWorke...')
+#3 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(2405): GatewayWorker\BusinessWorker->onWorkerStart(Object(GatewayWorker\BusinessWorker))
+#4 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\gateway-worker\src\BusinessWorker.php(197): Workerman\Worker->run()
+#5 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(1406): GatewayWorker\BusinessWorker->run()
+#6 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(1349): Workerman\Worker::forkWorkersForWindows()
+#7 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(542): Workerman\Worker::forkWorkers()
+#8 D:\phpstudy_pro\WWW\GatewayWorker\Applications\YourApp\start_businessworker.php(35): Workerman\Worker::runAll()
+#9 {main}
+2021-12-21 11:57:52 pid:1 ParseError: syntax error, unexpected '}' in D:\phpstudy_pro\WWW\GatewayWorker\Applications\YourApp\Events.php:58
+Stack trace:
+#0 [internal function]: Workerman\Autoloader::loadByNamespace('Events')
+#1 [internal function]: spl_autoload_call('Events')
+#2 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\gateway-worker\src\BusinessWorker.php(226): is_callable('Events::onWorke...')
+#3 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(2405): GatewayWorker\BusinessWorker->onWorkerStart(Object(GatewayWorker\BusinessWorker))
+#4 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\gateway-worker\src\BusinessWorker.php(197): Workerman\Worker->run()
+#5 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(1406): GatewayWorker\BusinessWorker->run()
+#6 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(1349): Workerman\Worker::forkWorkersForWindows()
+#7 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(542): Workerman\Worker::forkWorkers()
+#8 D:\phpstudy_pro\WWW\GatewayWorker\Applications\YourApp\start_businessworker.php(35): Workerman\Worker::runAll()
+#9 {main}
+2021-12-21 11:57:54 pid:1 ParseError: syntax error, unexpected '}' in D:\phpstudy_pro\WWW\GatewayWorker\Applications\YourApp\Events.php:58
+Stack trace:
+#0 [internal function]: Workerman\Autoloader::loadByNamespace('Events')
+#1 [internal function]: spl_autoload_call('Events')
+#2 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\gateway-worker\src\BusinessWorker.php(226): is_callable('Events::onWorke...')
+#3 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(2405): GatewayWorker\BusinessWorker->onWorkerStart(Object(GatewayWorker\BusinessWorker))
+#4 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\gateway-worker\src\BusinessWorker.php(197): Workerman\Worker->run()
+#5 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(1406): GatewayWorker\BusinessWorker->run()
+#6 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(1349): Workerman\Worker::forkWorkersForWindows()
+#7 D:\phpstudy_pro\WWW\GatewayWorker\vendor\workerman\workerman\Worker.php(542): Workerman\Worker::forkWorkers()
+#8 D:\phpstudy_pro\WWW\GatewayWorker\Applications\YourApp\start_businessworker.php(35): Workerman\Worker::runAll()
+#9 {main}
+2021-12-22 17:43:29 pid:1 Worker process terminated
+2021-12-22 17:44:03 pid:1 Worker process terminated
+2021-12-22 17:44:09 pid:1 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://doc2.workerman.net/send-buffer-to-worker-fail.html
+2021-12-22 17:44:09 pid:1 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://doc2.workerman.net/send-buffer-to-worker-fail.html
+2021-12-22 17:44:09 pid:1 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://doc2.workerman.net/send-buffer-to-worker-fail.html
+2021-12-22 17:47:20 pid:1 Worker process terminated
+2021-12-22 17:48:31 pid:1 Worker process terminated
+2021-12-22 17:49:23 pid:1 Worker process terminated
+2021-12-23 10:50:50 pid:1 Worker process terminated
+2021-12-23 10:51:35 pid:1 Worker process terminated
+2021-12-23 10:52:20 pid:1 Worker process terminated
+2021-12-23 10:52:21 pid:1 Worker process terminated
+2021-12-23 10:52:37 pid:1 Worker process terminated
+2021-12-23 10:55:43 pid:1 Worker process terminated
+2021-12-23 11:01:43 pid:1 Worker process terminated
+2021-12-23 11:02:00 pid:1 Worker process terminated
+2021-12-23 11:02:04 pid:1 Worker process terminated
+2021-12-23 11:02:08 pid:1 Worker process terminated
+2021-12-23 11:02:19 pid:1 Worker process terminated
+2021-12-24 11:34:43 pid:1 Worker process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '../web/php/config/db.php' (include_path='.;C:\php\pear') in D:\phpstudy_pro\WWW\wechat\Applications\YourApp\Events.php on line 23"
+2021-12-24 11:34:44 pid:1 Worker process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '../web/php/config/db.php' (include_path='.;C:\php\pear') in D:\phpstudy_pro\WWW\wechat\Applications\YourApp\Events.php on line 23"
+2021-12-24 11:34:45 pid:1 Worker process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '../web/php/config/db.php' (include_path='.;C:\php\pear') in D:\phpstudy_pro\WWW\wechat\Applications\YourApp\Events.php on line 23"
+2021-12-24 11:34:46 pid:1 Worker process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '../web/php/config/db.php' (include_path='.;C:\php\pear') in D:\phpstudy_pro\WWW\wechat\Applications\YourApp\Events.php on line 23"
+2021-12-24 11:34:47 pid:1 Worker process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '../web/php/config/db.php' (include_path='.;C:\php\pear') in D:\phpstudy_pro\WWW\wechat\Applications\YourApp\Events.php on line 23"
+2021-12-24 11:34:48 pid:1 Worker process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '../web/php/config/db.php' (include_path='.;C:\php\pear') in D:\phpstudy_pro\WWW\wechat\Applications\YourApp\Events.php on line 23"
+2021-12-24 11:34:49 pid:1 Worker process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '../web/php/config/db.php' (include_path='.;C:\php\pear') in D:\phpstudy_pro\WWW\wechat\Applications\YourApp\Events.php on line 23"
+2021-12-24 11:34:50 pid:1 Worker process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '../web/php/config/db.php' (include_path='.;C:\php\pear') in D:\phpstudy_pro\WWW\wechat\Applications\YourApp\Events.php on line 23"
+2021-12-24 11:34:50 pid:1 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://doc2.workerman.net/send-buffer-to-worker-fail.html
+2021-12-24 11:34:50 pid:1 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://doc2.workerman.net/send-buffer-to-worker-fail.html
+2021-12-24 11:34:51 pid:1 Worker process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '../web/php/config/db.php' (include_path='.;C:\php\pear') in D:\phpstudy_pro\WWW\wechat\Applications\YourApp\Events.php on line 23"
+2021-12-24 11:34:52 pid:1 Worker process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '../web/php/config/db.php' (include_path='.;C:\php\pear') in D:\phpstudy_pro\WWW\wechat\Applications\YourApp\Events.php on line 23"
+2021-12-24 11:34:53 pid:1 Register auth timeout (127.0.0.1). See http://doc2.workerman.net/register-auth-timeout.html
+2021-12-24 11:34:53 pid:1 Worker process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '../web/php/config/db.php' (include_path='.;C:\php\pear') in D:\phpstudy_pro\WWW\wechat\Applications\YourApp\Events.php on line 23"
+2021-12-24 11:34:54 pid:1 Register auth timeout (127.0.0.1). See http://doc2.workerman.net/register-auth-timeout.html
+2021-12-24 11:34:54 pid:1 Worker process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '../web/php/config/db.php' (include_path='.;C:\php\pear') in D:\phpstudy_pro\WWW\wechat\Applications\YourApp\Events.php on line 23"
+2021-12-24 11:34:55 pid:1 Register auth timeout (127.0.0.1). See http://doc2.workerman.net/register-auth-timeout.html
+2021-12-24 11:34:55 pid:1 Worker process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '../web/php/config/db.php' (include_path='.;C:\php\pear') in D:\phpstudy_pro\WWW\wechat\Applications\YourApp\Events.php on line 23"
+2021-12-24 11:34:56 pid:1 Register auth timeout (127.0.0.1). See http://doc2.workerman.net/register-auth-timeout.html
+2021-12-24 11:34:56 pid:1 Worker process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '../web/php/config/db.php' (include_path='.;C:\php\pear') in D:\phpstudy_pro\WWW\wechat\Applications\YourApp\Events.php on line 23"
+2021-12-24 11:34:57 pid:1 Register auth timeout (127.0.0.1). See http://doc2.workerman.net/register-auth-timeout.html
+2021-12-24 11:35:44 pid:1 Worker process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '../web/php/config/db.php' (include_path='.;C:\php\pear') in D:\phpstudy_pro\WWW\wechat\Applications\YourApp\Events.php on line 23"
+2021-12-24 11:35:45 pid:1 Worker process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '../web/php/config/db.php' (include_path='.;C:\php\pear') in D:\phpstudy_pro\WWW\wechat\Applications\YourApp\Events.php on line 23"
+2021-12-24 11:35:46 pid:1 Worker process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '../web/php/config/db.php' (include_path='.;C:\php\pear') in D:\phpstudy_pro\WWW\wechat\Applications\YourApp\Events.php on line 23"
+2021-12-24 11:35:47 pid:1 Worker process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '../web/php/config/db.php' (include_path='.;C:\php\pear') in D:\phpstudy_pro\WWW\wechat\Applications\YourApp\Events.php on line 23"
+2021-12-24 11:35:48 pid:1 Worker process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '../web/php/config/db.php' (include_path='.;C:\php\pear') in D:\phpstudy_pro\WWW\wechat\Applications\YourApp\Events.php on line 23"
+2021-12-24 11:35:49 pid:1 Worker process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '../web/php/config/db.php' (include_path='.;C:\php\pear') in D:\phpstudy_pro\WWW\wechat\Applications\YourApp\Events.php on line 23"
+2021-12-24 11:35:50 pid:1 Worker process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '../web/php/config/db.php' (include_path='.;C:\php\pear') in D:\phpstudy_pro\WWW\wechat\Applications\YourApp\Events.php on line 23"
+2021-12-24 11:35:51 pid:1 Worker process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '../web/php/config/db.php' (include_path='.;C:\php\pear') in D:\phpstudy_pro\WWW\wechat\Applications\YourApp\Events.php on line 23"
+2021-12-25 11:05:59 pid:1 Worker process terminated
+2021-12-25 13:03:57 pid:1 Worker process terminated
+2021-12-25 13:03:58 pid:1 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://doc2.workerman.net/send-buffer-to-worker-fail.html
+2021-12-25 13:03:58 pid:1 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://doc2.workerman.net/send-buffer-to-worker-fail.html
+2021-12-25 13:05:46 pid:1 Worker process terminated
+2021-12-25 13:05:46 pid:1 Worker process terminated
+2021-12-25 13:05:47 pid:1 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://doc2.workerman.net/send-buffer-to-worker-fail.html
+2021-12-25 13:05:47 pid:1 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://doc2.workerman.net/send-buffer-to-worker-fail.html
+2021-12-25 13:05:47 pid:1 Worker process terminated
+2021-12-25 13:06:22 pid:1 Worker process terminated
+2021-12-25 13:06:42 pid:1 Worker process terminated
+2021-12-25 13:06:43 pid:1 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://doc2.workerman.net/send-buffer-to-worker-fail.html
+2021-12-25 13:06:43 pid:1 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://doc2.workerman.net/send-buffer-to-worker-fail.html
+2021-12-25 13:18:56 pid:1 Worker process terminated
+2021-12-25 13:18:57 pid:1 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://doc2.workerman.net/send-buffer-to-worker-fail.html
+2021-12-25 13:18:57 pid:1 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://doc2.workerman.net/send-buffer-to-worker-fail.html
+2021-12-25 13:20:11 pid:1 Worker process terminated
+2021-12-25 13:20:12 pid:1 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://doc2.workerman.net/send-buffer-to-worker-fail.html
+2021-12-25 13:20:12 pid:1 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://doc2.workerman.net/send-buffer-to-worker-fail.html
+2021-12-25 13:20:23 pid:1 Worker process terminated
+2021-12-25 13:21:18 pid:1 Worker process terminated
+2021-12-25 16:42:24 pid:1 Worker process terminated
+2021-12-25 16:43:16 pid:1 Worker process terminated
+2021-12-27 11:55:09 pid:1 Error: Class 'Config\Db' not found in D:\phpstudy_pro\WWW\wechat\vendor\workerman\gateway-worker\src\Lib\Db.php:40
+Stack trace:
+#0 D:\phpstudy_pro\WWW\wechat\Applications\YourApp\Events.php(46): GatewayWorker\Lib\Db::instance('db')
+#1 [internal function]: Events::onConnect('7f0000010b54000...')
+#2 D:\phpstudy_pro\WWW\wechat\vendor\workerman\gateway-worker\src\BusinessWorker.php(403): call_user_func('Events::onConne...', '7f0000010b54000...')
+#3 D:\phpstudy_pro\WWW\wechat\vendor\workerman\workerman\Connection\TcpConnection.php(638): GatewayWorker\BusinessWorker->onGatewayMessage(Object(Workerman\Connection\AsyncTcpConnection), Array)
+#4 D:\phpstudy_pro\WWW\wechat\vendor\workerman\workerman\Events\Select.php(294): Workerman\Connection\TcpConnection->baseRead(Resource id #26)
+#5 D:\phpstudy_pro\WWW\wechat\vendor\workerman\workerman\Worker.php(2418): Workerman\Events\Select->loop()
+#6 D:\phpstudy_pro\WWW\wechat\vendor\workerman\gateway-worker\src\BusinessWorker.php(197): Workerman\Worker->run()
+#7 D:\phpstudy_pro\WWW\wechat\vendor\workerman\workerman\Worker.php(1406): GatewayWorker\BusinessWorker->run()
+#8 D:\phpstudy_pro\WWW\wechat\vendor\workerman\workerman\Worker.php(1349): Workerman\Worker::forkWorkersForWindows()
+#9 D:\phpstudy_pro\WWW\wechat\vendor\workerman\workerman\Worker.php(542): Workerman\Worker::forkWorkers()
+#10 D:\phpstudy_pro\WWW\wechat\Applications\YourApp\start_businessworker.php(35): Workerman\Worker::runAll()
+#11 {main}
+2021-12-27 11:57:00 pid:1 Worker process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '../web/php/config/db.php' (include_path='.;C:\php\pear') in D:\phpstudy_pro\WWW\wechat\Applications\YourApp\Events.php on line 25"
+2021-12-27 11:57:01 pid:1 Worker process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '../web/php/config/db.php' (include_path='.;C:\php\pear') in D:\phpstudy_pro\WWW\wechat\Applications\YourApp\Events.php on line 25"
+2021-12-27 11:57:02 pid:1 Worker process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '../web/php/config/db.php' (include_path='.;C:\php\pear') in D:\phpstudy_pro\WWW\wechat\Applications\YourApp\Events.php on line 25"
+2021-12-27 11:57:03 pid:1 Worker process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '../web/php/config/db.php' (include_path='.;C:\php\pear') in D:\phpstudy_pro\WWW\wechat\Applications\YourApp\Events.php on line 25"
+2021-12-27 11:57:04 pid:1 Worker process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '../web/php/config/db.php' (include_path='.;C:\php\pear') in D:\phpstudy_pro\WWW\wechat\Applications\YourApp\Events.php on line 25"
+2021-12-27 11:57:05 pid:1 Worker process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '../web/php/config/db.php' (include_path='.;C:\php\pear') in D:\phpstudy_pro\WWW\wechat\Applications\YourApp\Events.php on line 25"
+2021-12-27 11:57:06 pid:1 Worker process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '../web/php/config/db.php' (include_path='.;C:\php\pear') in D:\phpstudy_pro\WWW\wechat\Applications\YourApp\Events.php on line 25"
+2021-12-27 11:57:07 pid:1 Worker process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '../web/php/config/db.php' (include_path='.;C:\php\pear') in D:\phpstudy_pro\WWW\wechat\Applications\YourApp\Events.php on line 25"
+2021-12-27 11:57:08 pid:1 Worker process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '../web/php/config/db.php' (include_path='.;C:\php\pear') in D:\phpstudy_pro\WWW\wechat\Applications\YourApp\Events.php on line 25"
+2021-12-27 11:57:29 pid:1 Worker process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '/php/config/db.php' (include_path='.;C:\php\pear') in D:\phpstudy_pro\WWW\wechat\Applications\YourApp\Events.php on line 25"
+2021-12-27 11:57:30 pid:1 Worker process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '/php/config/db.php' (include_path='.;C:\php\pear') in D:\phpstudy_pro\WWW\wechat\Applications\YourApp\Events.php on line 25"
+2021-12-27 11:57:31 pid:1 Worker process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '/php/config/db.php' (include_path='.;C:\php\pear') in D:\phpstudy_pro\WWW\wechat\Applications\YourApp\Events.php on line 25"
+2021-12-27 11:57:32 pid:1 Worker process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '/php/config/db.php' (include_path='.;C:\php\pear') in D:\phpstudy_pro\WWW\wechat\Applications\YourApp\Events.php on line 25"
+2021-12-27 12:05:50 pid:1 Error: Class 'Config\Db' not found in D:\phpstudy_pro\WWW\wechat\vendor\workerman\gateway-worker\src\Lib\Db.php:40
+Stack trace:
+#0 D:\phpstudy_pro\WWW\wechat\Applications\YourApp\Events.php(41): GatewayWorker\Lib\Db::instance('chat')
+#1 [internal function]: Events::onConnect('7f0000010b54000...')
+#2 D:\phpstudy_pro\WWW\wechat\vendor\workerman\gateway-worker\src\BusinessWorker.php(403): call_user_func('Events::onConne...', '7f0000010b54000...')
+#3 D:\phpstudy_pro\WWW\wechat\vendor\workerman\workerman\Connection\TcpConnection.php(638): GatewayWorker\BusinessWorker->onGatewayMessage(Object(Workerman\Connection\AsyncTcpConnection), Array)
+#4 D:\phpstudy_pro\WWW\wechat\vendor\workerman\workerman\Events\Select.php(294): Workerman\Connection\TcpConnection->baseRead(Resource id #26)
+#5 D:\phpstudy_pro\WWW\wechat\vendor\workerman\workerman\Worker.php(2418): Workerman\Events\Select->loop()
+#6 D:\phpstudy_pro\WWW\wechat\vendor\workerman\gateway-worker\src\BusinessWorker.php(197): Workerman\Worker->run()
+#7 D:\phpstudy_pro\WWW\wechat\vendor\workerman\workerman\Worker.php(1406): GatewayWorker\BusinessWorker->run()
+#8 D:\phpstudy_pro\WWW\wechat\vendor\workerman\workerman\Worker.php(1349): Workerman\Worker::forkWorkersForWindows()
+#9 D:\phpstudy_pro\WWW\wechat\vendor\workerman\workerman\Worker.php(542): Workerman\Worker::forkWorkers()
+#10 D:\phpstudy_pro\WWW\wechat\Applications\YourApp\start_businessworker.php(35): Workerman\Worker::runAll()
+#11 {main}
+2021-12-27 12:05:51 pid:1 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://doc2.workerman.net/send-buffer-to-worker-fail.html
+2021-12-27 12:05:51 pid:1 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://doc2.workerman.net/send-buffer-to-worker-fail.html
+2021-12-27 13:33:44 pid:1 Error: Class 'Config\Db' not found in D:\phpstudy_pro\WWW\wechat\vendor\workerman\gateway-worker\src\Lib\Db.php:40
+Stack trace:
+#0 D:\phpstudy_pro\WWW\wechat\Applications\YourApp\Events.php(41): GatewayWorker\Lib\Db::instance('chat')
+#1 [internal function]: Events::onConnect('7f0000010b54000...')
+#2 D:\phpstudy_pro\WWW\wechat\vendor\workerman\gateway-worker\src\BusinessWorker.php(403): call_user_func('Events::onConne...', '7f0000010b54000...')
+#3 D:\phpstudy_pro\WWW\wechat\vendor\workerman\workerman\Connection\TcpConnection.php(638): GatewayWorker\BusinessWorker->onGatewayMessage(Object(Workerman\Connection\AsyncTcpConnection), Array)
+#4 D:\phpstudy_pro\WWW\wechat\vendor\workerman\workerman\Events\Select.php(294): Workerman\Connection\TcpConnection->baseRead(Resource id #26)
+#5 D:\phpstudy_pro\WWW\wechat\vendor\workerman\workerman\Worker.php(2418): Workerman\Events\Select->loop()
+#6 D:\phpstudy_pro\WWW\wechat\vendor\workerman\gateway-worker\src\BusinessWorker.php(197): Workerman\Worker->run()
+#7 D:\phpstudy_pro\WWW\wechat\vendor\workerman\workerman\Worker.php(1406): GatewayWorker\BusinessWorker->run()
+#8 D:\phpstudy_pro\WWW\wechat\vendor\workerman\workerman\Worker.php(1349): Workerman\Worker::forkWorkersForWindows()
+#9 D:\phpstudy_pro\WWW\wechat\vendor\workerman\workerman\Worker.php(542): Workerman\Worker::forkWorkers()
+#10 D:\phpstudy_pro\WWW\wechat\Applications\YourApp\start_businessworker.php(35): Workerman\Worker::runAll()
+#11 {main}
+2021-12-27 13:33:45 pid:1 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://doc2.workerman.net/send-buffer-to-worker-fail.html
+2021-12-27 13:33:45 pid:1 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://doc2.workerman.net/send-buffer-to-worker-fail.html
+2021-12-27 13:35:12 pid:1 Error: Class 'Config\Db' not found in D:\phpstudy_pro\WWW\wechat\vendor\workerman\gateway-worker\src\Lib\Db.php:40
+Stack trace:
+#0 D:\phpstudy_pro\WWW\wechat\Applications\YourApp\Events.php(41): GatewayWorker\Lib\Db::instance('chat')
+#1 [internal function]: Events::onConnect('7f0000010b54000...')
+#2 D:\phpstudy_pro\WWW\wechat\vendor\workerman\gateway-worker\src\BusinessWorker.php(403): call_user_func('Events::onConne...', '7f0000010b54000...')
+#3 D:\phpstudy_pro\WWW\wechat\vendor\workerman\workerman\Connection\TcpConnection.php(638): GatewayWorker\BusinessWorker->onGatewayMessage(Object(Workerman\Connection\AsyncTcpConnection), Array)
+#4 D:\phpstudy_pro\WWW\wechat\vendor\workerman\workerman\Events\Select.php(294): Workerman\Connection\TcpConnection->baseRead(Resource id #26)
+#5 D:\phpstudy_pro\WWW\wechat\vendor\workerman\workerman\Worker.php(2418): Workerman\Events\Select->loop()
+#6 D:\phpstudy_pro\WWW\wechat\vendor\workerman\gateway-worker\src\BusinessWorker.php(197): Workerman\Worker->run()
+#7 D:\phpstudy_pro\WWW\wechat\vendor\workerman\workerman\Worker.php(1406): GatewayWorker\BusinessWorker->run()
+#8 D:\phpstudy_pro\WWW\wechat\vendor\workerman\workerman\Worker.php(1349): Workerman\Worker::forkWorkersForWindows()
+#9 D:\phpstudy_pro\WWW\wechat\vendor\workerman\workerman\Worker.php(542): Workerman\Worker::forkWorkers()
+#10 D:\phpstudy_pro\WWW\wechat\Applications\YourApp\start_businessworker.php(35): Workerman\Worker::runAll()
+#11 {main}
+2021-12-27 13:35:13 pid:1 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://doc2.workerman.net/send-buffer-to-worker-fail.html
+2021-12-27 13:35:13 pid:1 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://doc2.workerman.net/send-buffer-to-worker-fail.html
+2021-12-27 13:35:14 pid:1 Error: Class 'Config\Db' not found in D:\phpstudy_pro\WWW\wechat\vendor\workerman\gateway-worker\src\Lib\Db.php:40
+Stack trace:
+#0 D:\phpstudy_pro\WWW\wechat\Applications\YourApp\Events.php(41): GatewayWorker\Lib\Db::instance('chat')
+#1 [internal function]: Events::onConnect('7f0000010b54000...')
+#2 D:\phpstudy_pro\WWW\wechat\vendor\workerman\gateway-worker\src\BusinessWorker.php(403): call_user_func('Events::onConne...', '7f0000010b54000...')
+#3 D:\phpstudy_pro\WWW\wechat\vendor\workerman\workerman\Connection\TcpConnection.php(638): GatewayWorker\BusinessWorker->onGatewayMessage(Object(Workerman\Connection\AsyncTcpConnection), Array)
+#4 D:\phpstudy_pro\WWW\wechat\vendor\workerman\workerman\Events\Select.php(294): Workerman\Connection\TcpConnection->baseRead(Resource id #26)
+#5 D:\phpstudy_pro\WWW\wechat\vendor\workerman\workerman\Worker.php(2418): Workerman\Events\Select->loop()
+#6 D:\phpstudy_pro\WWW\wechat\vendor\workerman\gateway-worker\src\BusinessWorker.php(197): Workerman\Worker->run()
+#7 D:\phpstudy_pro\WWW\wechat\vendor\workerman\workerman\Worker.php(1406): GatewayWorker\BusinessWorker->run()
+#8 D:\phpstudy_pro\WWW\wechat\vendor\workerman\workerman\Worker.php(1349): Workerman\Worker::forkWorkersForWindows()
+#9 D:\phpstudy_pro\WWW\wechat\vendor\workerman\workerman\Worker.php(542): Workerman\Worker::forkWorkers()
+#10 D:\phpstudy_pro\WWW\wechat\Applications\YourApp\start_businessworker.php(35): Workerman\Worker::runAll()
+#11 {main}
+2021-12-27 13:35:15 pid:1 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://doc2.workerman.net/send-buffer-to-worker-fail.html
+2021-12-27 13:35:15 pid:1 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://doc2.workerman.net/send-buffer-to-worker-fail.html
+2021-12-27 13:38:10 pid:1 Error: Class 'Config\Db' not found in D:\phpstudy_pro\WWW\wechat\vendor\workerman\gateway-worker\src\Lib\Db.php:40
+Stack trace:
+#0 D:\phpstudy_pro\WWW\wechat\Applications\YourApp\Events.php(41): GatewayWorker\Lib\Db::instance('chat')
+#1 [internal function]: Events::onConnect('7f0000010b54000...')
+#2 D:\phpstudy_pro\WWW\wechat\vendor\workerman\gateway-worker\src\BusinessWorker.php(403): call_user_func('Events::onConne...', '7f0000010b54000...')
+#3 D:\phpstudy_pro\WWW\wechat\vendor\workerman\workerman\Connection\TcpConnection.php(638): GatewayWorker\BusinessWorker->onGatewayMessage(Object(Workerman\Connection\AsyncTcpConnection), Array)
+#4 D:\phpstudy_pro\WWW\wechat\vendor\workerman\workerman\Events\Select.php(294): Workerman\Connection\TcpConnection->baseRead(Resource id #26)
+#5 D:\phpstudy_pro\WWW\wechat\vendor\workerman\workerman\Worker.php(2418): Workerman\Events\Select->loop()
+#6 D:\phpstudy_pro\WWW\wechat\vendor\workerman\gateway-worker\src\BusinessWorker.php(197): Workerman\Worker->run()
+#7 D:\phpstudy_pro\WWW\wechat\vendor\workerman\workerman\Worker.php(1406): GatewayWorker\BusinessWorker->run()
+#8 D:\phpstudy_pro\WWW\wechat\vendor\workerman\workerman\Worker.php(1349): Workerman\Worker::forkWorkersForWindows()
+#9 D:\phpstudy_pro\WWW\wechat\vendor\workerman\workerman\Worker.php(542): Workerman\Worker::forkWorkers()
+#10 D:\phpstudy_pro\WWW\wechat\Applications\YourApp\start_businessworker.php(35): Workerman\Worker::runAll()
+#11 {main}
+2021-12-27 13:38:11 pid:1 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://doc2.workerman.net/send-buffer-to-worker-fail.html
+2021-12-27 13:38:11 pid:1 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://doc2.workerman.net/send-buffer-to-worker-fail.html
+2021-12-27 13:38:12 pid:1 Error: Class 'Config\Db' not found in D:\phpstudy_pro\WWW\wechat\vendor\workerman\gateway-worker\src\Lib\Db.php:40
+Stack trace:
+#0 D:\phpstudy_pro\WWW\wechat\Applications\YourApp\Events.php(41): GatewayWorker\Lib\Db::instance('chat')
+#1 [internal function]: Events::onConnect('7f0000010b54000...')
+#2 D:\phpstudy_pro\WWW\wechat\vendor\workerman\gateway-worker\src\BusinessWorker.php(403): call_user_func('Events::onConne...', '7f0000010b54000...')
+#3 D:\phpstudy_pro\WWW\wechat\vendor\workerman\workerman\Connection\TcpConnection.php(638): GatewayWorker\BusinessWorker->onGatewayMessage(Object(Workerman\Connection\AsyncTcpConnection), Array)
+#4 D:\phpstudy_pro\WWW\wechat\vendor\workerman\workerman\Events\Select.php(294): Workerman\Connection\TcpConnection->baseRead(Resource id #26)
+#5 D:\phpstudy_pro\WWW\wechat\vendor\workerman\workerman\Worker.php(2418): Workerman\Events\Select->loop()
+#6 D:\phpstudy_pro\WWW\wechat\vendor\workerman\gateway-worker\src\BusinessWorker.php(197): Workerman\Worker->run()
+#7 D:\phpstudy_pro\WWW\wechat\vendor\workerman\workerman\Worker.php(1406): GatewayWorker\BusinessWorker->run()
+#8 D:\phpstudy_pro\WWW\wechat\vendor\workerman\workerman\Worker.php(1349): Workerman\Worker::forkWorkersForWindows()
+#9 D:\phpstudy_pro\WWW\wechat\vendor\workerman\workerman\Worker.php(542): Workerman\Worker::forkWorkers()
+#10 D:\phpstudy_pro\WWW\wechat\Applications\YourApp\start_businessworker.php(35): Workerman\Worker::runAll()
+#11 {main}
+2021-12-27 13:38:13 pid:1 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://doc2.workerman.net/send-buffer-to-worker-fail.html
+2021-12-27 13:38:13 pid:1 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://doc2.workerman.net/send-buffer-to-worker-fail.html
+2021-12-27 13:41:02 pid:1 Error: Class 'Config\Db' not found in D:\phpstudy_pro\WWW\wechat\vendor\workerman\gateway-worker\src\Lib\Db.php:40
+Stack trace:
+#0 D:\phpstudy_pro\WWW\wechat\Applications\YourApp\Events.php(41): GatewayWorker\Lib\Db::instance('db')
+#1 [internal function]: Events::onConnect('7f0000010b54000...')
+#2 D:\phpstudy_pro\WWW\wechat\vendor\workerman\gateway-worker\src\BusinessWorker.php(403): call_user_func('Events::onConne...', '7f0000010b54000...')
+#3 D:\phpstudy_pro\WWW\wechat\vendor\workerman\workerman\Connection\TcpConnection.php(638): GatewayWorker\BusinessWorker->onGatewayMessage(Object(Workerman\Connection\AsyncTcpConnection), Array)
+#4 D:\phpstudy_pro\WWW\wechat\vendor\workerman\workerman\Events\Select.php(294): Workerman\Connection\TcpConnection->baseRead(Resource id #26)
+#5 D:\phpstudy_pro\WWW\wechat\vendor\workerman\workerman\Worker.php(2418): Workerman\Events\Select->loop()
+#6 D:\phpstudy_pro\WWW\wechat\vendor\workerman\gateway-worker\src\BusinessWorker.php(197): Workerman\Worker->run()
+#7 D:\phpstudy_pro\WWW\wechat\vendor\workerman\workerman\Worker.php(1406): GatewayWorker\BusinessWorker->run()
+#8 D:\phpstudy_pro\WWW\wechat\vendor\workerman\workerman\Worker.php(1349): Workerman\Worker::forkWorkersForWindows()
+#9 D:\phpstudy_pro\WWW\wechat\vendor\workerman\workerman\Worker.php(542): Workerman\Worker::forkWorkers()
+#10 D:\phpstudy_pro\WWW\wechat\Applications\YourApp\start_businessworker.php(35): Workerman\Worker::runAll()
+#11 {main}
+2021-12-27 13:41:03 pid:1 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://doc2.workerman.net/send-buffer-to-worker-fail.html
+2021-12-27 13:41:03 pid:1 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://doc2.workerman.net/send-buffer-to-worker-fail.html
+2021-12-27 13:42:18 pid:1 Error: Class 'Config\Db' not found in D:\phpstudy_pro\WWW\wechat\vendor\workerman\gateway-worker\src\Lib\Db.php:40
+Stack trace:
+#0 D:\phpstudy_pro\WWW\wechat\Applications\YourApp\Events.php(41): GatewayWorker\Lib\Db::instance('chat')
+#1 [internal function]: Events::onConnect('7f0000010b54000...')
+#2 D:\phpstudy_pro\WWW\wechat\vendor\workerman\gateway-worker\src\BusinessWorker.php(403): call_user_func('Events::onConne...', '7f0000010b54000...')
+#3 D:\phpstudy_pro\WWW\wechat\vendor\workerman\workerman\Connection\TcpConnection.php(638): GatewayWorker\BusinessWorker->onGatewayMessage(Object(Workerman\Connection\AsyncTcpConnection), Array)
+#4 D:\phpstudy_pro\WWW\wechat\vendor\workerman\workerman\Events\Select.php(294): Workerman\Connection\TcpConnection->baseRead(Resource id #26)
+#5 D:\phpstudy_pro\WWW\wechat\vendor\workerman\workerman\Worker.php(2418): Workerman\Events\Select->loop()
+#6 D:\phpstudy_pro\WWW\wechat\vendor\workerman\gateway-worker\src\BusinessWorker.php(197): Workerman\Worker->run()
+#7 D:\phpstudy_pro\WWW\wechat\vendor\workerman\workerman\Worker.php(1406): GatewayWorker\BusinessWorker->run()
+#8 D:\phpstudy_pro\WWW\wechat\vendor\workerman\workerman\Worker.php(1349): Workerman\Worker::forkWorkersForWindows()
+#9 D:\phpstudy_pro\WWW\wechat\vendor\workerman\workerman\Worker.php(542): Workerman\Worker::forkWorkers()
+#10 D:\phpstudy_pro\WWW\wechat\Applications\YourApp\start_businessworker.php(35): Workerman\Worker::runAll()
+#11 {main}
+2021-12-27 13:42:19 pid:1 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://doc2.workerman.net/send-buffer-to-worker-fail.html
+2021-12-27 13:42:19 pid:1 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://doc2.workerman.net/send-buffer-to-worker-fail.html
+2021-12-27 13:45:40 pid:1 Error: Class 'Config\Db' not found in D:\phpstudy_pro\WWW\wechat\vendor\workerman\gateway-worker\src\Lib\Db.php:40
+Stack trace:
+#0 D:\phpstudy_pro\WWW\wechat\Applications\YourApp\Events.php(41): GatewayWorker\Lib\Db::instance('user')
+#1 [internal function]: Events::onConnect('7f0000010b54000...')
+#2 D:\phpstudy_pro\WWW\wechat\vendor\workerman\gateway-worker\src\BusinessWorker.php(403): call_user_func('Events::onConne...', '7f0000010b54000...')
+#3 D:\phpstudy_pro\WWW\wechat\vendor\workerman\workerman\Connection\TcpConnection.php(638): GatewayWorker\BusinessWorker->onGatewayMessage(Object(Workerman\Connection\AsyncTcpConnection), Array)
+#4 D:\phpstudy_pro\WWW\wechat\vendor\workerman\workerman\Events\Select.php(294): Workerman\Connection\TcpConnection->baseRead(Resource id #26)
+#5 D:\phpstudy_pro\WWW\wechat\vendor\workerman\workerman\Worker.php(2418): Workerman\Events\Select->loop()
+#6 D:\phpstudy_pro\WWW\wechat\vendor\workerman\gateway-worker\src\BusinessWorker.php(197): Workerman\Worker->run()
+#7 D:\phpstudy_pro\WWW\wechat\vendor\workerman\workerman\Worker.php(1406): GatewayWorker\BusinessWorker->run()
+#8 D:\phpstudy_pro\WWW\wechat\vendor\workerman\workerman\Worker.php(1349): Workerman\Worker::forkWorkersForWindows()
+#9 D:\phpstudy_pro\WWW\wechat\vendor\workerman\workerman\Worker.php(542): Workerman\Worker::forkWorkers()
+#10 D:\phpstudy_pro\WWW\wechat\Applications\YourApp\start_businessworker.php(35): Workerman\Worker::runAll()
+#11 {main}
+2021-12-27 13:45:41 pid:1 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://doc2.workerman.net/send-buffer-to-worker-fail.html
+2021-12-27 13:45:41 pid:1 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://doc2.workerman.net/send-buffer-to-worker-fail.html
+2021-12-27 13:58:27 pid:1 Worker process terminated
+2021-12-29 14:21:34 pid:1 PDOException: SQLSTATE[HY000] [2002] 由于目标计算机积极拒绝，无法连接。
+ in D:\phpstudy_pro\WWW\laravel-wechat\public\GatewayWorker\vendor\workerman\gateway-worker\src\Lib\DbConnection.php:1708
+Stack trace:
+#0 D:\phpstudy_pro\WWW\laravel-wechat\public\GatewayWorker\vendor\workerman\gateway-worker\src\Lib\DbConnection.php(1708): PDO->__construct('mysql:dbname=ch...', 'root', '123456', Array)
+#1 D:\phpstudy_pro\WWW\laravel-wechat\public\GatewayWorker\vendor\workerman\gateway-worker\src\Lib\DbConnection.php(1746): GatewayWorker\Lib\DbConnection->connect()
+#2 D:\phpstudy_pro\WWW\laravel-wechat\public\GatewayWorker\vendor\workerman\gateway-worker\src\Lib\DbConnection.php(1824): GatewayWorker\Lib\DbConnection->execute('SELECT * FROM u...', NULL)
+#3 D:\phpstudy_pro\WWW\laravel-wechat\public\GatewayWorker\Applications\YourApp\Events.php(44): GatewayWorker\Lib\DbConnection->query('SELECT * FROM u...')
+#4 [internal function]: Events::onConnect('7f0000010b54000...')
+#5 D:\phpstudy_pro\WWW\laravel-wechat\public\GatewayWorker\vendor\workerman\gateway-worker\src\BusinessWorker.php(403): call_user_func('Events::onConne...', '7f0000010b54000...')
+#6 D:\phpstudy_pro\WWW\laravel-wechat\public\GatewayWorker\vendor\workerman\workerman\Connection\TcpConnection.php(638): GatewayWorker\BusinessWorker->onGatewayMessage(Object(Workerman\Connection\AsyncTcpConnection), Array)
+#7 D:\phpstudy_pro\WWW\laravel-wechat\public\GatewayWorker\vendor\workerman\workerman\Events\Select.php(294): Workerman\Connection\TcpConnection->baseRead(Resource id #26)
+#8 D:\phpstudy_pro\WWW\laravel-wechat\public\GatewayWorker\vendor\workerman\workerman\Worker.php(2418): Workerman\Events\Select->loop()
+#9 D:\phpstudy_pro\WWW\laravel-wechat\public\GatewayWorker\vendor\workerman\gateway-worker\src\BusinessWorker.php(197): Workerman\Worker->run()
+#10 D:\phpstudy_pro\WWW\laravel-wechat\public\GatewayWorker\vendor\workerman\workerman\Worker.php(1406): GatewayWorker\BusinessWorker->run()
+#11 D:\phpstudy_pro\WWW\laravel-wechat\public\GatewayWorker\vendor\workerman\workerman\Worker.php(1349): Workerman\Worker::forkWorkersForWindows()
+#12 D:\phpstudy_pro\WWW\laravel-wechat\public\GatewayWorker\vendor\workerman\workerman\Worker.php(542): Workerman\Worker::forkWorkers()
+#13 D:\phpstudy_pro\WWW\laravel-wechat\public\GatewayWorker\Applications\YourApp\start_businessworker.php(35): Workerman\Worker::runAll()
+#14 {main}
+2021-12-31 11:59:19 pid:1 Error: Call to undefined function your_store_fun() in D:\phpstudy_pro\WWW\laravel-wechat\public\GatewayWorker\Applications\YourApp\Events.php:93
+Stack trace:
+#0 [internal function]: Events::onMessage('7f0000010b54000...', Array)
+#1 D:\phpstudy_pro\WWW\laravel-wechat\public\GatewayWorker\vendor\workerman\gateway-worker\src\BusinessWorker.php(408): call_user_func('Events::onMessa...', '7f0000010b54000...', '{"type":"toid",...')
+#2 D:\phpstudy_pro\WWW\laravel-wechat\public\GatewayWorker\vendor\workerman\workerman\Connection\TcpConnection.php(638): GatewayWorker\BusinessWorker->onGatewayMessage(Object(Workerman\Connection\AsyncTcpConnection), Array)
+#3 D:\phpstudy_pro\WWW\laravel-wechat\public\GatewayWorker\vendor\workerman\workerman\Events\Select.php(294): Workerman\Connection\TcpConnection->baseRead(Resource id #26)
+#4 D:\phpstudy_pro\WWW\laravel-wechat\public\GatewayWorker\vendor\workerman\workerman\Worker.php(2418): Workerman\Events\Select->loop()
+#5 D:\phpstudy_pro\WWW\laravel-wechat\public\GatewayWorker\vendor\workerman\gateway-worker\src\BusinessWorker.php(197): Workerman\Worker->run()
+#6 D:\phpstudy_pro\WWW\laravel-wechat\public\GatewayWorker\vendor\workerman\workerman\Worker.php(1406): GatewayWorker\BusinessWorker->run()
+#7 D:\phpstudy_pro\WWW\laravel-wechat\public\GatewayWorker\vendor\workerman\workerman\Worker.php(1349): Workerman\Worker::forkWorkersForWindows()
+#8 D:\phpstudy_pro\WWW\laravel-wechat\public\GatewayWorker\vendor\workerman\workerman\Worker.php(542): Workerman\Worker::forkWorkers()
+#9 D:\phpstudy_pro\WWW\laravel-wechat\public\GatewayWorker\Applications\YourApp\start_businessworker.php(35): Workerman\Worker::runAll()
+#10 {main}
+2021-12-31 11:59:26 pid:1 Error: Call to undefined function your_store_fun() in D:\phpstudy_pro\WWW\laravel-wechat\public\GatewayWorker\Applications\YourApp\Events.php:93
+Stack trace:
+#0 [internal function]: Events::onMessage('7f0000010b54000...', Array)
+#1 D:\phpstudy_pro\WWW\laravel-wechat\public\GatewayWorker\vendor\workerman\gateway-worker\src\BusinessWorker.php(408): call_user_func('Events::onMessa...', '7f0000010b54000...', '{"type":"toid",...')
+#2 D:\phpstudy_pro\WWW\laravel-wechat\public\GatewayWorker\vendor\workerman\workerman\Connection\TcpConnection.php(638): GatewayWorker\BusinessWorker->onGatewayMessage(Object(Workerman\Connection\AsyncTcpConnection), Array)
+#3 D:\phpstudy_pro\WWW\laravel-wechat\public\GatewayWorker\vendor\workerman\workerman\Events\Select.php(294): Workerman\Connection\TcpConnection->baseRead(Resource id #26)
+#4 D:\phpstudy_pro\WWW\laravel-wechat\public\GatewayWorker\vendor\workerman\workerman\Worker.php(2418): Workerman\Events\Select->loop()
+#5 D:\phpstudy_pro\WWW\laravel-wechat\public\GatewayWorker\vendor\workerman\gateway-worker\src\BusinessWorker.php(197): Workerman\Worker->run()
+#6 D:\phpstudy_pro\WWW\laravel-wechat\public\GatewayWorker\vendor\workerman\workerman\Worker.php(1406): GatewayWorker\BusinessWorker->run()
+#7 D:\phpstudy_pro\WWW\laravel-wechat\public\GatewayWorker\vendor\workerman\workerman\Worker.php(1349): Workerman\Worker::forkWorkersForWindows()
+#8 D:\phpstudy_pro\WWW\laravel-wechat\public\GatewayWorker\vendor\workerman\workerman\Worker.php(542): Workerman\Worker::forkWorkers()
+#9 D:\phpstudy_pro\WWW\laravel-wechat\public\GatewayWorker\Applications\YourApp\start_businessworker.php(35): Workerman\Worker::runAll()
+#10 {main}
+2021-12-31 12:01:12 pid:1 Error: Call to undefined function your_store_fun() in D:\phpstudy_pro\WWW\laravel-wechat\public\GatewayWorker\Applications\YourApp\Events.php:93
+Stack trace:
+#0 [internal function]: Events::onMessage('7f0000010b54000...', Array)
+#1 D:\phpstudy_pro\WWW\laravel-wechat\public\GatewayWorker\vendor\workerman\gateway-worker\src\BusinessWorker.php(408): call_user_func('Events::onMessa...', '7f0000010b54000...', '{"type":"toid",...')
+#2 D:\phpstudy_pro\WWW\laravel-wechat\public\GatewayWorker\vendor\workerman\workerman\Connection\TcpConnection.php(638): GatewayWorker\BusinessWorker->onGatewayMessage(Object(Workerman\Connection\AsyncTcpConnection), Array)
+#3 D:\phpstudy_pro\WWW\laravel-wechat\public\GatewayWorker\vendor\workerman\workerman\Events\Select.php(294): Workerman\Connection\TcpConnection->baseRead(Resource id #26)
+#4 D:\phpstudy_pro\WWW\laravel-wechat\public\GatewayWorker\vendor\workerman\workerman\Worker.php(2418): Workerman\Events\Select->loop()
+#5 D:\phpstudy_pro\WWW\laravel-wechat\public\GatewayWorker\vendor\workerman\gateway-worker\src\BusinessWorker.php(197): Workerman\Worker->run()
+#6 D:\phpstudy_pro\WWW\laravel-wechat\public\GatewayWorker\vendor\workerman\workerman\Worker.php(1406): GatewayWorker\BusinessWorker->run()
+#7 D:\phpstudy_pro\WWW\laravel-wechat\public\GatewayWorker\vendor\workerman\workerman\Worker.php(1349): Workerman\Worker::forkWorkersForWindows()
+#8 D:\phpstudy_pro\WWW\laravel-wechat\public\GatewayWorker\vendor\workerman\workerman\Worker.php(542): Workerman\Worker::forkWorkers()
+#9 D:\phpstudy_pro\WWW\laravel-wechat\public\GatewayWorker\Applications\YourApp\start_businessworker.php(35): Workerman\Worker::runAll()
+#10 {main}
+2021-12-31 12:01:14 pid:1 Error: Call to undefined function your_store_fun() in D:\phpstudy_pro\WWW\laravel-wechat\public\GatewayWorker\Applications\YourApp\Events.php:93
+Stack trace:
+#0 [internal function]: Events::onMessage('7f0000010b54000...', Array)
+#1 D:\phpstudy_pro\WWW\laravel-wechat\public\GatewayWorker\vendor\workerman\gateway-worker\src\BusinessWorker.php(408): call_user_func('Events::onMessa...', '7f0000010b54000...', '{"type":"toid",...')
+#2 D:\phpstudy_pro\WWW\laravel-wechat\public\GatewayWorker\vendor\workerman\workerman\Connection\TcpConnection.php(638): GatewayWorker\BusinessWorker->onGatewayMessage(Object(Workerman\Connection\AsyncTcpConnection), Array)
+#3 D:\phpstudy_pro\WWW\laravel-wechat\public\GatewayWorker\vendor\workerman\workerman\Events\Select.php(294): Workerman\Connection\TcpConnection->baseRead(Resource id #26)
+#4 D:\phpstudy_pro\WWW\laravel-wechat\public\GatewayWorker\vendor\workerman\workerman\Worker.php(2418): Workerman\Events\Select->loop()
+#5 D:\phpstudy_pro\WWW\laravel-wechat\public\GatewayWorker\vendor\workerman\gateway-worker\src\BusinessWorker.php(197): Workerman\Worker->run()
+#6 D:\phpstudy_pro\WWW\laravel-wechat\public\GatewayWorker\vendor\workerman\workerman\Worker.php(1406): GatewayWorker\BusinessWorker->run()
+#7 D:\phpstudy_pro\WWW\laravel-wechat\public\GatewayWorker\vendor\workerman\workerman\Worker.php(1349): Workerman\Worker::forkWorkersForWindows()
+#8 D:\phpstudy_pro\WWW\laravel-wechat\public\GatewayWorker\vendor\workerman\workerman\Worker.php(542): Workerman\Worker::forkWorkers()
+#9 D:\phpstudy_pro\WWW\laravel-wechat\public\GatewayWorker\Applications\YourApp\start_businessworker.php(35): Workerman\Worker::runAll()
+#10 {main}
+2021-12-31 12:01:16 pid:1 Error: Call to undefined function your_store_fun() in D:\phpstudy_pro\WWW\laravel-wechat\public\GatewayWorker\Applications\YourApp\Events.php:93
+Stack trace:
+#0 [internal function]: Events::onMessage('7f0000010b54000...', Array)
+#1 D:\phpstudy_pro\WWW\laravel-wechat\public\GatewayWorker\vendor\workerman\gateway-worker\src\BusinessWorker.php(408): call_user_func('Events::onMessa...', '7f0000010b54000...', '{"type":"toid",...')
+#2 D:\phpstudy_pro\WWW\laravel-wechat\public\GatewayWorker\vendor\workerman\workerman\Connection\TcpConnection.php(638): GatewayWorker\BusinessWorker->onGatewayMessage(Object(Workerman\Connection\AsyncTcpConnection), Array)
+#3 D:\phpstudy_pro\WWW\laravel-wechat\public\GatewayWorker\vendor\workerman\workerman\Events\Select.php(294): Workerman\Connection\TcpConnection->baseRead(Resource id #26)
+#4 D:\phpstudy_pro\WWW\laravel-wechat\public\GatewayWorker\vendor\workerman\workerman\Worker.php(2418): Workerman\Events\Select->loop()
+#5 D:\phpstudy_pro\WWW\laravel-wechat\public\GatewayWorker\vendor\workerman\gateway-worker\src\BusinessWorker.php(197): Workerman\Worker->run()
+#6 D:\phpstudy_pro\WWW\laravel-wechat\public\GatewayWorker\vendor\workerman\workerman\Worker.php(1406): GatewayWorker\BusinessWorker->run()
+#7 D:\phpstudy_pro\WWW\laravel-wechat\public\GatewayWorker\vendor\workerman\workerman\Worker.php(1349): Workerman\Worker::forkWorkersForWindows()
+#8 D:\phpstudy_pro\WWW\laravel-wechat\public\GatewayWorker\vendor\workerman\workerman\Worker.php(542): Workerman\Worker::forkWorkers()
+#9 D:\phpstudy_pro\WWW\laravel-wechat\public\GatewayWorker\Applications\YourApp\start_businessworker.php(35): Workerman\Worker::runAll()
+#10 {main}
+2021-12-31 12:01:17 pid:1 Error: Call to undefined function your_store_fun() in D:\phpstudy_pro\WWW\laravel-wechat\public\GatewayWorker\Applications\YourApp\Events.php:93
+Stack trace:
+#0 [internal function]: Events::onMessage('7f0000010b54000...', Array)
+#1 D:\phpstudy_pro\WWW\laravel-wechat\public\GatewayWorker\vendor\workerman\gateway-worker\src\BusinessWorker.php(408): call_user_func('Events::onMessa...', '7f0000010b54000...', '{"type":"toid",...')
+#2 D:\phpstudy_pro\WWW\laravel-wechat\public\GatewayWorker\vendor\workerman\workerman\Connection\TcpConnection.php(638): GatewayWorker\BusinessWorker->onGatewayMessage(Object(Workerman\Connection\AsyncTcpConnection), Array)
+#3 D:\phpstudy_pro\WWW\laravel-wechat\public\GatewayWorker\vendor\workerman\workerman\Events\Select.php(294): Workerman\Connection\TcpConnection->baseRead(Resource id #26)
+#4 D:\phpstudy_pro\WWW\laravel-wechat\public\GatewayWorker\vendor\workerman\workerman\Worker.php(2418): Workerman\Events\Select->loop()
+#5 D:\phpstudy_pro\WWW\laravel-wechat\public\GatewayWorker\vendor\workerman\gateway-worker\src\BusinessWorker.php(197): Workerman\Worker->run()
+#6 D:\phpstudy_pro\WWW\laravel-wechat\public\GatewayWorker\vendor\workerman\workerman\Worker.php(1406): GatewayWorker\BusinessWorker->run()
+#7 D:\phpstudy_pro\WWW\laravel-wechat\public\GatewayWorker\vendor\workerman\workerman\Worker.php(1349): Workerman\Worker::forkWorkersForWindows()
+#8 D:\phpstudy_pro\WWW\laravel-wechat\public\GatewayWorker\vendor\workerman\workerman\Worker.php(542): Workerman\Worker::forkWorkers()
+#9 D:\phpstudy_pro\WWW\laravel-wechat\public\GatewayWorker\Applications\YourApp\start_businessworker.php(35): Workerman\Worker::runAll()
+#10 {main}
+2021-12-31 12:01:18 pid:1 Error: Call to undefined function your_store_fun() in D:\phpstudy_pro\WWW\laravel-wechat\public\GatewayWorker\Applications\YourApp\Events.php:93
+Stack trace:
+#0 [internal function]: Events::onMessage('7f0000010b54000...', Array)
+#1 D:\phpstudy_pro\WWW\laravel-wechat\public\GatewayWorker\vendor\workerman\gateway-worker\src\BusinessWorker.php(408): call_user_func('Events::onMessa...', '7f0000010b54000...', '{"type":"toid",...')
+#2 D:\phpstudy_pro\WWW\laravel-wechat\public\GatewayWorker\vendor\workerman\workerman\Connection\TcpConnection.php(638): GatewayWorker\BusinessWorker->onGatewayMessage(Object(Workerman\Connection\AsyncTcpConnection), Array)
+#3 D:\phpstudy_pro\WWW\laravel-wechat\public\GatewayWorker\vendor\workerman\workerman\Events\Select.php(294): Workerman\Connection\TcpConnection->baseRead(Resource id #26)
+#4 D:\phpstudy_pro\WWW\laravel-wechat\public\GatewayWorker\vendor\workerman\workerman\Worker.php(2418): Workerman\Events\Select->loop()
+#5 D:\phpstudy_pro\WWW\laravel-wechat\public\GatewayWorker\vendor\workerman\gateway-worker\src\BusinessWorker.php(197): Workerman\Worker->run()
+#6 D:\phpstudy_pro\WWW\laravel-wechat\public\GatewayWorker\vendor\workerman\workerman\Worker.php(1406): GatewayWorker\BusinessWorker->run()
+#7 D:\phpstudy_pro\WWW\laravel-wechat\public\GatewayWorker\vendor\workerman\workerman\Worker.php(1349): Workerman\Worker::forkWorkersForWindows()
+#8 D:\phpstudy_pro\WWW\laravel-wechat\public\GatewayWorker\vendor\workerman\workerman\Worker.php(542): Workerman\Worker::forkWorkers()
+#9 D:\phpstudy_pro\WWW\laravel-wechat\public\GatewayWorker\Applications\YourApp\start_businessworker.php(35): Workerman\Worker::runAll()
+#10 {main}
+2021-12-31 12:01:22 pid:1 Error: Call to undefined function your_store_fun() in D:\phpstudy_pro\WWW\laravel-wechat\public\GatewayWorker\Applications\YourApp\Events.php:93
+Stack trace:
+#0 [internal function]: Events::onMessage('7f0000010b54000...', Array)
+#1 D:\phpstudy_pro\WWW\laravel-wechat\public\GatewayWorker\vendor\workerman\gateway-worker\src\BusinessWorker.php(408): call_user_func('Events::onMessa...', '7f0000010b54000...', '{"type":"toid",...')
+#2 D:\phpstudy_pro\WWW\laravel-wechat\public\GatewayWorker\vendor\workerman\workerman\Connection\TcpConnection.php(638): GatewayWorker\BusinessWorker->onGatewayMessage(Object(Workerman\Connection\AsyncTcpConnection), Array)
+#3 D:\phpstudy_pro\WWW\laravel-wechat\public\GatewayWorker\vendor\workerman\workerman\Events\Select.php(294): Workerman\Connection\TcpConnection->baseRead(Resource id #26)
+#4 D:\phpstudy_pro\WWW\laravel-wechat\public\GatewayWorker\vendor\workerman\workerman\Worker.php(2418): Workerman\Events\Select->loop()
+#5 D:\phpstudy_pro\WWW\laravel-wechat\public\GatewayWorker\vendor\workerman\gateway-worker\src\BusinessWorker.php(197): Workerman\Worker->run()
+#6 D:\phpstudy_pro\WWW\laravel-wechat\public\GatewayWorker\vendor\workerman\workerman\Worker.php(1406): GatewayWorker\BusinessWorker->run()
+#7 D:\phpstudy_pro\WWW\laravel-wechat\public\GatewayWorker\vendor\workerman\workerman\Worker.php(1349): Workerman\Worker::forkWorkersForWindows()
+#8 D:\phpstudy_pro\WWW\laravel-wechat\public\GatewayWorker\vendor\workerman\workerman\Worker.php(542): Workerman\Worker::forkWorkers()
+#9 D:\phpstudy_pro\WWW\laravel-wechat\public\GatewayWorker\Applications\YourApp\start_businessworker.php(35): Workerman\Worker::runAll()
+#10 {main}
+2021-12-31 12:01:23 pid:1 Error: Call to undefined function your_store_fun() in D:\phpstudy_pro\WWW\laravel-wechat\public\GatewayWorker\Applications\YourApp\Events.php:93
+Stack trace:
+#0 [internal function]: Events::onMessage('7f0000010b54000...', Array)
+#1 D:\phpstudy_pro\WWW\laravel-wechat\public\GatewayWorker\vendor\workerman\gateway-worker\src\BusinessWorker.php(408): call_user_func('Events::onMessa...', '7f0000010b54000...', '{"type":"toid",...')
+#2 D:\phpstudy_pro\WWW\laravel-wechat\public\GatewayWorker\vendor\workerman\workerman\Connection\TcpConnection.php(638): GatewayWorker\BusinessWorker->onGatewayMessage(Object(Workerman\Connection\AsyncTcpConnection), Array)
+#3 D:\phpstudy_pro\WWW\laravel-wechat\public\GatewayWorker\vendor\workerman\workerman\Events\Select.php(294): Workerman\Connection\TcpConnection->baseRead(Resource id #26)
+#4 D:\phpstudy_pro\WWW\laravel-wechat\public\GatewayWorker\vendor\workerman\workerman\Worker.php(2418): Workerman\Events\Select->loop()
+#5 D:\phpstudy_pro\WWW\laravel-wechat\public\GatewayWorker\vendor\workerman\gateway-worker\src\BusinessWorker.php(197): Workerman\Worker->run()
+#6 D:\phpstudy_pro\WWW\laravel-wechat\public\GatewayWorker\vendor\workerman\workerman\Worker.php(1406): GatewayWorker\BusinessWorker->run()
+#7 D:\phpstudy_pro\WWW\laravel-wechat\public\GatewayWorker\vendor\workerman\workerman\Worker.php(1349): Workerman\Worker::forkWorkersForWindows()
+#8 D:\phpstudy_pro\WWW\laravel-wechat\public\GatewayWorker\vendor\workerman\workerman\Worker.php(542): Workerman\Worker::forkWorkers()
+#9 D:\phpstudy_pro\WWW\laravel-wechat\public\GatewayWorker\Applications\YourApp\start_businessworker.php(35): Workerman\Worker::runAll()
+#10 {main}
+2021-12-31 12:01:24 pid:1 Error: Call to undefined function your_store_fun() in D:\phpstudy_pro\WWW\laravel-wechat\public\GatewayWorker\Applications\YourApp\Events.php:93
+Stack trace:
+#0 [internal function]: Events::onMessage('7f0000010b54000...', Array)
+#1 D:\phpstudy_pro\WWW\laravel-wechat\public\GatewayWorker\vendor\workerman\gateway-worker\src\BusinessWorker.php(408): call_user_func('Events::onMessa...', '7f0000010b54000...', '{"type":"toid",...')
+#2 D:\phpstudy_pro\WWW\laravel-wechat\public\GatewayWorker\vendor\workerman\workerman\Connection\TcpConnection.php(638): GatewayWorker\BusinessWorker->onGatewayMessage(Object(Workerman\Connection\AsyncTcpConnection), Array)
+#3 D:\phpstudy_pro\WWW\laravel-wechat\public\GatewayWorker\vendor\workerman\workerman\Events\Select.php(294): Workerman\Connection\TcpConnection->baseRead(Resource id #26)
+#4 D:\phpstudy_pro\WWW\laravel-wechat\public\GatewayWorker\vendor\workerman\workerman\Worker.php(2418): Workerman\Events\Select->loop()
+#5 D:\phpstudy_pro\WWW\laravel-wechat\public\GatewayWorker\vendor\workerman\gateway-worker\src\BusinessWorker.php(197): Workerman\Worker->run()
+#6 D:\phpstudy_pro\WWW\laravel-wechat\public\GatewayWorker\vendor\workerman\workerman\Worker.php(1406): GatewayWorker\BusinessWorker->run()
+#7 D:\phpstudy_pro\WWW\laravel-wechat\public\GatewayWorker\vendor\workerman\workerman\Worker.php(1349): Workerman\Worker::forkWorkersForWindows()
+#8 D:\phpstudy_pro\WWW\laravel-wechat\public\GatewayWorker\vendor\workerman\workerman\Worker.php(542): Workerman\Worker::forkWorkers()
+#9 D:\phpstudy_pro\WWW\laravel-wechat\public\GatewayWorker\Applications\YourApp\start_businessworker.php(35): Workerman\Worker::runAll()
+#10 {main}
+2021-12-31 16:31:27 pid:1 Error: Call to undefined function your_store_fun() in D:\phpstudy_pro\WWW\laravel-wechat\public\GatewayWorker\Applications\YourApp\Events.php:93
+Stack trace:
+#0 [internal function]: Events::onMessage('7f0000010b54000...', Array)
+#1 D:\phpstudy_pro\WWW\laravel-wechat\public\GatewayWorker\vendor\workerman\gateway-worker\src\BusinessWorker.php(408): call_user_func('Events::onMessa...', '7f0000010b54000...', '{"type":"toid",...')
+#2 D:\phpstudy_pro\WWW\laravel-wechat\public\GatewayWorker\vendor\workerman\workerman\Connection\TcpConnection.php(638): GatewayWorker\BusinessWorker->onGatewayMessage(Object(Workerman\Connection\AsyncTcpConnection), Array)
+#3 D:\phpstudy_pro\WWW\laravel-wechat\public\GatewayWorker\vendor\workerman\workerman\Events\Select.php(294): Workerman\Connection\TcpConnection->baseRead(Resource id #26)
+#4 D:\phpstudy_pro\WWW\laravel-wechat\public\GatewayWorker\vendor\workerman\workerman\Worker.php(2418): Workerman\Events\Select->loop()
+#5 D:\phpstudy_pro\WWW\laravel-wechat\public\GatewayWorker\vendor\workerman\gateway-worker\src\BusinessWorker.php(197): Workerman\Worker->run()
+#6 D:\phpstudy_pro\WWW\laravel-wechat\public\GatewayWorker\vendor\workerman\workerman\Worker.php(1406): GatewayWorker\BusinessWorker->run()
+#7 D:\phpstudy_pro\WWW\laravel-wechat\public\GatewayWorker\vendor\workerman\workerman\Worker.php(1349): Workerman\Worker::forkWorkersForWindows()
+#8 D:\phpstudy_pro\WWW\laravel-wechat\public\GatewayWorker\vendor\workerman\workerman\Worker.php(542): Workerman\Worker::forkWorkers()
+#9 D:\phpstudy_pro\WWW\laravel-wechat\public\GatewayWorker\Applications\YourApp\start_businessworker.php(35): Workerman\Worker::runAll()
+#10 {main}
