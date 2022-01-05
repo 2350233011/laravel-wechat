@@ -74,7 +74,6 @@ class IndexController extends Controller
      */
     public function querydata(Request $request)
     {
-
         $post = $request->input();
 
         $byid = $post["id"];
